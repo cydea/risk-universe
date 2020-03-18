@@ -10,6 +10,7 @@ Staff of an organisation may be coerced into taking action by external actors.
 
 Coerced staff are ultimately motivated by the external parties acting on them. Their direct motivations are born out of:
 
+- Financial gain
 - Fear
 - Shame
 

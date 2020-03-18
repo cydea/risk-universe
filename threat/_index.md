@@ -36,7 +36,7 @@ A **threat** is the source from which an organisation may be exposed to risk.
 
 #### Also known as
 
-A **threat** in this risk universe may be known by:
+A **threat** in other frameworks or nomenclature may be also known as:
 
 - Threat Source
 - Threat Actor

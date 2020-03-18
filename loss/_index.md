@@ -30,6 +30,6 @@ A **loss** is the ultimate impact on the organisation, or society:
 
 #### Also known as
 
-A **loss** in this risk universe may be known by:
+A **loss** in other frameworks or nomenclature may be also known as:
 
 - Impact

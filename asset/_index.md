@@ -28,3 +28,9 @@ TODO: Assets! You can help: {{< contribute >}}!
   - Integrity
   - Availability
 - Examples
+
+#### Also known as
+
+An **asset** in other frameworks or nomenclature may be also known as:
+
+- Crown Jewels

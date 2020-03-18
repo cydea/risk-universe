@@ -2,6 +2,19 @@
 
 This 'risk universe' is a framework for information security risk professionals to explore, analyse and communicate cyber risk.
 
+TODO: Add details on how to contribute.
+
+TODO: Add license information.
+
+## Matrix
+
+This tabular quick-reference of the risk universe is currently (very) incomplete, but is provided as a visual aid:
+
+| Threat                                 | Event              | Outcome            | Asset              | Loss                                   |
+|----------------------------------------|--------------------|--------------------|--------------------|----------------------------------------|
+| [Accidental](/threat/accidental)       |                    | Data Breach        | Personal Info.     | [Productivity](/loss/productivity)     |
+| [Coerced](/threat/coerced)             |                    |                    |                    | Etc...                                 |
+
 ## Risk Statements
 
 This risk universe can be used to construct risk scenarios like:

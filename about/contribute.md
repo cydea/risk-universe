@@ -8,7 +8,7 @@ TODO: Add details on how to contribute.
 
 ## Contributing
 
-The content of the Information Risk Universe is available on GitHub in [https://github.com/cydea/risk-universe/](this repository).
+The content of the Information Risk Universe is available on GitHub in [this repository](https://github.com/cydea/risk-universe/).
 
 If you see an error or would like to suggest an improvement then please [raise an issue](https://github.com/cydea/risk-universe/issues).
 

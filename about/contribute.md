@@ -4,9 +4,9 @@ weight = 10
 date = 2020-03-19
 +++
 
-## Contributing
-
 TODO: Add details on how to contribute.
+
+## Contributing
 
 The content of the Information Risk Universe is available on GitHub in [https://github.com/cydea/risk-universe/](this repository).
 

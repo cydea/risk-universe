@@ -4,8 +4,6 @@ weight = 15
 date = 2020-03-19
 +++
 
-# Use Cases
-
 The primary use cases are:
 
 - [Building risk scenaios](/summary/risk-scenaios/)

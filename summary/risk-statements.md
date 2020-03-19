@@ -4,8 +4,6 @@ weight = 10
 date = 2020-03-19
 +++
 
-# Risk Statements
-
 This information risk universe is constructed around these building blocks:
 
 _There is a **probability** that **threat** causes **event** resulting in **outcome** to **asset** of **loss**._

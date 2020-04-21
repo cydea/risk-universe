@@ -1,9 +1,9 @@
-+++
-title = "Event"
-chapter = true
-weight = 20
-pre = ""
-+++
+---
+title: "Event"
+chapter: true
+weight: 20
+pre: ""
+---
 
 # Event
 

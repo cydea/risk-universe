@@ -1,8 +1,8 @@
-+++
-title = "Risk Statements"
-weight = 10
-date = 2020-03-19
-+++
+---
+title: "Risk Statements"
+weight: 10
+date: 2020-03-19
+---
 
 This information risk universe is constructed around these building blocks:
 

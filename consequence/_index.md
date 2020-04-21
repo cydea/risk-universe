@@ -1,9 +1,9 @@
-+++
-title = "Consequence"
-chapter = true
-weight = 30
-pre = ""
-+++
+---
+title: "Consequence"
+chapter: true
+weight: 30
+pre: ""
+---
 
 # Consequence
 

@@ -1,8 +1,8 @@
-+++
-title = "Researcher"
-weight = 15
-date = 2020-03-18
-+++
+---
+title: "Researcher"
+weight: 15
+date: 2020-03-18
+---
 
 Security researchers are inquisitive individuals or groups with an aim to identify an improve security weaknesses in organisations.
 

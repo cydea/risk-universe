@@ -1,8 +1,8 @@
-+++
-title = "Accidental"
-weight = 15
-date = 2020-03-18
-+++
+---
+title: "Accidental"
+weight: 15
+date: 2020-03-18
+---
 
 _'To err is human'_. We all make mistakes and the staff of an organisation may accidentally be the source of information security risk.
 

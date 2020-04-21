@@ -1,8 +1,8 @@
-+++
-title = "Coerced"
-weight = 15
-date = 2020-03-18
-+++
+---
+title: "Coerced"
+weight: 15
+date: 2020-03-18
+---
 
 Staff of an organisation may be coerced into taking action by external actors.
 

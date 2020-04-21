@@ -1,8 +1,8 @@
-+++
-title = "Information Risk Universe"
-weight = 5
-date = 2020-03-18
-+++
+---
+title: "Information Risk Universe"
+weight: 5
+date: 2020-03-18
+---
 
 # Information Risk Universe
 

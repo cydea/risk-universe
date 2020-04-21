@@ -1,8 +1,8 @@
-+++
-title = "Contribute"
-weight = 10
-date = 2020-03-19
-+++
+---
+title: "Contribute"
+weight: 10
+date: 2020-03-19
+---
 
 TODO: Add details on how to contribute.
 

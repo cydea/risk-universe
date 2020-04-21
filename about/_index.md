@@ -1,9 +1,9 @@
-+++
-title = "About"
-chapter = true
-weight = 100
-pre = ""
-+++
+---
+title: "About"
+chapter: true
+weight: 100
+pre: ""
+---
 
 # About
 

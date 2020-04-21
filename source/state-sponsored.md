@@ -1,8 +1,8 @@
-+++
-title = "State-sponsored"
-weight = 15
-date = 2020-03-18
-+++
+---
+title: "State-sponsored"
+weight: 15
+date: 2020-03-18
+---
 
 State-sponsored agents are well-resourced and typically specifically tasked based on the interests of the country or coalition that they represent.
 

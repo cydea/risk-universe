@@ -1,9 +1,9 @@
-+++
-title = "Asset"
-chapter = true
-weight = 60
-pre = ""
-+++
+---
+title: "Asset"
+chapter: true
+weight: 60
+pre: ""
+---
 
 # Asset
 

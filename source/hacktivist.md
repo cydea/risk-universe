@@ -1,8 +1,8 @@
-+++
-title = "Hacktivist"
-weight = 15
-date = 2020-03-18
-+++
+---
+title: "Hacktivist"
+weight: 15
+date: 2020-03-18
+---
 
 Hacktivists are external attackers who wish harm to the organisation because of a perceived or actual injustice against a cause.
 

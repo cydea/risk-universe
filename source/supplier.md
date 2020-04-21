@@ -1,8 +1,8 @@
-+++
-title = "Supplier"
-weight = 15
-date = 2020-03-18
-+++
+---
+title: "Supplier"
+weight: 15
+date: 2020-03-18
+---
 
 Suppliers provide products or services to an organisation. Informaion security [events](/event) may occur either maliciously, accidntally, or they may be targeted by [state-sponsored](/threat/state-sponsored) or [criminal](/threat/criminal) actors as a conduit by which the organisations [assets](/asset) may be accessed.
 

@@ -1,8 +1,8 @@
-+++
-title = "Use Cases"
-weight = 15
-date = 2020-03-19
-+++
+---
+title: "Use Cases"
+weight: 15
+date: 2020-03-19
+---
 
 The primary use cases are:
 

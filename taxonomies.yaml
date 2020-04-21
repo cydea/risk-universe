@@ -1,0 +1,22 @@
+###
+# Taxonomies definition
+# (For inclusion in Hugo site config)
+
+taxonomies:
+# Overarching
+  source: sources
+  event: events
+  consequence: consequences
+  asset: assets
+
+# Sources
+  relationship: relationship # Internal / external
+  intent: intent # (Non-)Malcious
+  motivation: motivations # Financial, etc.
+  factor: factors
+
+# Events
+  property: properties # CIA
+
+# Consequences
+#  factor: factors # Already defined under Sources

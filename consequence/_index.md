@@ -1,13 +1,13 @@
 +++
-title = "Loss"
+title = "Consequence"
 chapter = true
-weight = 50
+weight = 30
 pre = ""
 +++
 
-# Loss
+# Consequence
 
-A **loss** is the ultimate impact on the organisation, or society:
+A **consequence** is the ultimate impact on the organisation, or society, caused by an [event](/event/):
 
 - [Productivity](productivity/)
 - [Response Costs](response-cost/)
@@ -30,6 +30,7 @@ A **loss** is the ultimate impact on the organisation, or society:
 
 #### Also known as
 
-A **loss** in other frameworks or nomenclature may be also known as:
+A **consequence** in other frameworks or nomenclature may be also known as:
 
 - Impact
+- Loss

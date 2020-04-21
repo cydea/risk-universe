@@ -1,13 +1,13 @@
 +++
 title = "Asset"
 chapter = true
-weight = 40
+weight = 60
 pre = ""
 +++
 
 # Asset
 
-Assets are the 'crown jewels' that an organisation wishes to protect from harm. They many be the target for, or collateral damage of, a [threat](/threat). Assets have value to their organisation and [outcomes](/outcome) lead to [losses](/loss).
+Assets are the 'crown jewels' that an organisation wishes to protect from harm. They many be the target for, or collateral damage of, a [source](/source/). Assets have value to their organisation from which they can suffer [consequences](/consequence/).
 
 It is important that an organisation regularly ask itself _what are we defending?_
 
@@ -17,7 +17,7 @@ Identifying and maintaining asset inventories is a complex activity and the prim
 - Intellectual Property
 - Computer Resources
 - Cash
-- Access (e.g. as a [supplier](/threat/supplier))
+- Access (e.g. as a [supplier](/source/supplier))
 
 TODO: Assets! You can help: {{< contribute >}}!
 
@@ -34,3 +34,5 @@ TODO: Assets! You can help: {{< contribute >}}!
 An **asset** in other frameworks or nomenclature may be also known as:
 
 - Crown Jewels
+- Information Asset
+- (Information) Asset Container

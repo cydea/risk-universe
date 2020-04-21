@@ -6,7 +6,7 @@ date = 2020-03-19
 
 This tabular quick-reference of the risk universe is currently (very) incomplete, but is provided as a visual aid:
 
-| [Threat](/threat)                      | [Event](/event)    | [Outcome](/outcome)| [Asset](/asset)    | [Loss](/loss)                          |
-|----------------------------------------|--------------------|--------------------|--------------------|----------------------------------------|
-| [Accidental](/threat/accidental)       |                    | Data Breach        | Personal Info.     | [Productivity](/loss/productivity)     |
-| [Coerced](/threat/coerced)             |                    |                    |                    | Etc...                                 |
+| [Source](/source)                      | [Event](/event)    | [Asset](/asset)    | [Consequence](/consequence)            |
+|----------------------------------------|--------------------|--------------------|----------------------------------------|
+| [Accidental](/source/accidental)       |                    | Personal Info.     | [Productivity](/consequence/productivity)     |
+| [Coerced](/source/coerced)             |                    |                    | Etc...                                 |
